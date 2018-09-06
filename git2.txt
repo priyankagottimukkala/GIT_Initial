@@ -1,0 +1,2 @@
+two types of repositories are 1.centralised repository
+                              2.ditributed repository
